@@ -1,3 +1,4 @@
+# https://www.silvergames.com/en/piano-tiles-2
 from pynput.mouse import Button, Controller
 from PIL import ImageGrab
 import keyboard
